@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>capslock_off.png</file>
+        <file>capslock_on.png</file>
+    </qresource>
+</RCC>
